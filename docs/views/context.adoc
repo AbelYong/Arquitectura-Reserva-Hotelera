@@ -1,0 +1,6 @@
+[[context-view]]
+== Vista de contexto
+
+La vista de contexto muestra el sistema como una caja negra...
+
+image::Context.png[Context Diagram, width=600, align=center]
