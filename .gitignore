@@ -1,3 +1,6 @@
+#Carpeta de salida
+build/
+
 #Archivos temporales
 *.log
 *.tmp
