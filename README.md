@@ -22,4 +22,4 @@ build/        -> Salida generada (ignorada en git)
 asciidoctor -D build docs/index.adoc
 asciidoctor-pdf -o build/index.pdf docs/index.adoc
 
-Prueba de generacion de documento
+Prueba de generacion de documento 2
