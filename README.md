@@ -21,3 +21,5 @@ build/        -> Salida generada (ignorada en git)
 ## Compilacion local (bash)
 asciidoctor -D build docs/index.adoc
 asciidoctor-pdf -o build/index.pdf docs/index.adoc
+
+Prueba de generacion de documento
