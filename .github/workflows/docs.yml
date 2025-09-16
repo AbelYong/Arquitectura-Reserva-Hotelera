@@ -16,7 +16,8 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-      - run: gem install asciidoctor asciidoctor-pdf
+      - run: gem install asciidoctor
+      - run: gem install asciidoctor-pdf
       # HTML
       - run: mkdir -p build
       - run: asciidoctor -D build docs/index.adoc
